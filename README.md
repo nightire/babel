@@ -267,7 +267,7 @@ this is widely supported but you may run into problems with much older browsers.
 ### Generators
 
 The [regenerator runtime](https://github.com/facebook/regenerator/blob/master/runtime.js)
-and an [ES6 polyfill](#polyfill) is required in order for generators to work.
+and an [ES6 polyfill](#polyfill) are required in order for generators to work.
 
 ## Differences
 
